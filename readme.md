@@ -1,2 +1,2 @@
-# INTRO TO ML ---Kaggle
+# Intro to ML
 
