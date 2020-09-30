@@ -25,7 +25,7 @@
 
 ## Logistic Regression 
 
-- Used to predict probability.
+- Used to predict probability.touch
 - Statistical math model to create a binary depedent classifier.
 - Linear regression + Sigmoid Function ( 1/(1+e^-y) ) = Logistic Regression ( ln(p/1-p) = b0 + b1 * x )
 
@@ -33,6 +33,13 @@
 
 - Support Vector Machine
 - Sees boundary points rather than most frequent points
+
+## Kernel SVM
+
+- SVM having different kernels.
+- used when data is not linearly depedent.
+- Types of kernel :- Gaussian RBF kernel, Sigmoid Kernel, Polynmial Kernel
+  
 
 
 
