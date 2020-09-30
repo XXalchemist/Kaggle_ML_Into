@@ -29,3 +29,10 @@
 - Statistical math model to create a binary depedent classifier.
 - Linear regression + Sigmoid Function ( 1/(1+e^-y) ) = Logistic Regression ( ln(p/1-p) = b0 + b1 * x )
 
+## SVM
+
+- Support Vector Machine
+- Sees boundary points rather than most frequent points
+
+
+
