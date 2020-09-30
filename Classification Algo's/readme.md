@@ -57,5 +57,9 @@
 3. Choose the nnumber N tree of trres you want to build and repeat step-1 and step-2
 4. For a new data point, make each one of your Ntree predict the category to which the datapoints belongs and assign the new datapoint to the category that wins the majority vote.
 
+## Naive Baye's
 
-
+- Baye's Theorem : P(A|B) = P(B|A) * P(A) / P(B)
+- P(A|B) : Probability of A when B is given
+- Called Naive as have some indepedent asssumption
+- P(X) : What likelihood that new datapoint shows who have the feature
