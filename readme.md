@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INTRO TO ML ---Kaggle and SuperDataScience
 
 # All ML's model are WRONG but some were ESSENTIAL.
@@ -17,4 +18,7 @@
 |8.| XGBoost|
 
 > Programming Language Used : Python
+=======
+# Intro to ML
+>>>>>>> 2f68c3f646345d20712526ebb7d808f270d59ecc
 
