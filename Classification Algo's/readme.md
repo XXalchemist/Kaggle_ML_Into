@@ -21,4 +21,11 @@
 6. Make Confusion Matrix
 7. Visualizing the result
    
+# Algorithm's
+
+## Logistic Regression 
+
+- Used to predict probability.
+- Statistical math model to create a binary depedent classifier.
+- Linear regression + Sigmoid Function ( 1/(1+e^-y) ) = Logistic Regression ( ln(p/1-p) = b0 + b1 * x )
 
