@@ -1,5 +1,7 @@
 # INTRO TO ML ---Kaggle and SuperDataScience
 
+# All ML's model are WRONG but some were ESSENTIAL.
+
 ## Content
 
 |**Sr. No.**| **Topic (ML Algo)**|
