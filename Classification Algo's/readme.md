@@ -40,6 +40,10 @@
 - used when data is not linearly depedent.
 - Types of kernel :- Gaussian RBF kernel, Sigmoid Kernel, Polynmial Kernel
   
+## Decision Tree
+
+- Classifier can be used :- Gradient Boosting, Random Forest
+- Tree created to classify
 
 
 
