@@ -63,3 +63,14 @@
 - P(A|B) : Probability of A when B is given
 - Called Naive as have some indepedent asssumption
 - P(X) : What likelihood that new datapoint shows who have the feature
+
+## KNN 
+
+- K nearest neighbors
+
+### Steps :-
+
+1. Choose the number K of neighbors
+2. Take the K-nearest neighbors of the datapoint, according t the euclidean distance
+3. Among these K neighbors, count the number of data points in each category
+4. Assign the new data point to the category where you counted the most neighbors
